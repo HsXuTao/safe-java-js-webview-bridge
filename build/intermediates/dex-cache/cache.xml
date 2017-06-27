@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MyCode\safe-java-js-webview-bridge\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2175fcf36af5ac14a38e98d5e48481000214a2a8">
+        <dex dex="D:\MyCode\safe-java-js-webview-bridge\sample\build\intermediates\pre-dexed\debug\classes_bac837ba52933af91832c3fe77d5ab63baf5b70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tao.xu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\MyCode\safe-java-js-webview-bridge\sample\build\intermediates\pre-dexed\debug\gson-2.3_4e45af98a3b53d98493de7754851634f177ca393.jar" />
+    </item>
+
+</items>

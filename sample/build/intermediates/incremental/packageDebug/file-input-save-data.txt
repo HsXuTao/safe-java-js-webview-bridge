@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Jun 27 13:34:14 CST 2017
+2.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\assets\\debug
+5.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.set=ASSET
+4.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\assets\\debug
+count=6
+0.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ASSET
+1.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\assets\\debug\\zepto.js
+0.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\MyCode\\safe-java-js-webview-bridge\\sample\\build\\intermediates\\assets\\debug\\test.html
+0.set=ANDROID_RESOURCE
